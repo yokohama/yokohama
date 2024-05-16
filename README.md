@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokohama&theme=maroongold&utcOffset=9)
 -->
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=yokohama&theme=maroongold)
+![trophy](https://github-profile-trophy.vercel.app/?username=yokohama&theme=gruvbox)
 
 
 <!--
