@@ -8,9 +8,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokohama&theme=maroongold)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokohama&theme=maroongold&utcOffset=9)
 -->
+<!--
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=yokohama&theme=gruvbox)
-
+-->
 
 <!--
 **yokohama/yokohama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
