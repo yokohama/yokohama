@@ -4,5 +4,6 @@
 
 
 ### OreshicRecord
-[hoge](https://github.com/yokohama/OreshicRecord/tree/main/records)
+
+[俺のレコード](https://github.com/yokohama/OreshicRecord/tree/main/records)
 
